@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{f as o,a as e}from"../chunks/Wq21zdmb.js";var r=o('<main class="flex grow items-center justify-center"><h2 class="text-4xl font-bold text-gray-400">Data Tiket</h2></main>');function s(t){var a=r();e(t,a)}export{s as component};

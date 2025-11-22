@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{f as r,a as t}from"../chunks/Wq21zdmb.js";var e=r('<main class="flex grow items-center justify-center"><a href="/dashboard">Login</a></main>');function p(a){var o=e();t(a,o)}export{p as component};

@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{f as o,a as r}from"../chunks/Wq21zdmb.js";var e=o('<main class="flex grow items-center justify-center"><h2 class="text-4xl font-bold text-gray-400">TEST PAGE</h2></main>');function s(t){var a=e();r(t,a)}export{s as component};
